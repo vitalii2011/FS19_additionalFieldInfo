@@ -6,7 +6,7 @@
         <en>Additional Field Info</en>
         <fr>Informations De Champ Supplémentaires</fr>
         <de>Zusätzliche Feldinfo</de>
-		<ru>Дополнительная информация о поле</ru>
+	<ru>Дополнительная информация о поле</ru>
     </title>
     <description>
         <en><![CDATA[
@@ -138,7 +138,7 @@ Fixed in v1.0.2.1
             <de>Feld %d Fläche</de>
             <pl>Pole nr %d</pl>
             <es>Area del campo %d</es>
-			<ru>Площадь поля %d</ru>
+	    <ru>Площадь поля %d</ru>
         </text>
         <text name="additionalFieldInfo_FARMLAND_AREA">
             <fr>Superficie du terrain</fr>
@@ -146,7 +146,7 @@ Fixed in v1.0.2.1
             <de>Landfläche</de>
             <pl>Grunt</pl>
             <es>Area de la parcela</es>
-			<ru>Площадь участка</ru>
+	    <ru>Площадь участка</ru>
         </text>
         <text name="additionalFieldInfo_AREA">
             <fr>Superficie</fr>
@@ -154,7 +154,7 @@ Fixed in v1.0.2.1
             <de>Fläche</de>
             <pl>Grunt</pl>
             <es>Area</es>
-			<ru>Площадь</ru>
+	    <ru>Площадь</ru>
         </text>
         <text name="additionalFieldInfo_PRICE_ON_AREA">
             <fr>Prix à l'%s</fr>
@@ -162,7 +162,7 @@ Fixed in v1.0.2.1
             <de>Preis pro %s</de>
             <pl>Cena za %s</pl>
             <es>Precio por %s</es>
-			<ru>С обраб. св. земли</ru>
+	    <ru>С обраб. св. земли</ru>
         </text>
         <text name="additionalFieldInfo_POTENTIAL_HARVEST">
             <fr>Récolte potentielle</fr>
@@ -170,7 +170,7 @@ Fixed in v1.0.2.1
             <de>Potenzielle Erntemenge</de>
             <pl>Potencjalna ilość zbiorów</pl>
             <es>A cosechar aprox.</es>
-			<ru>Возможный урожай</ru>
+	    <ru>Возможный урожай</ru>
         </text>
         <text name="additionalFieldInfo_POTENTIAL_YIELD">
             <fr>Rendement potentiel</fr>
@@ -178,7 +178,7 @@ Fixed in v1.0.2.1
             <de>Möglicher Ertrag</de>
             <pl>Potencjalny zysk</pl>
             <es>Posible rendimiento</es>
-			<ru>Возможн. урожайность</ru>
+	    <ru>Возможн. урожайность</ru>
         </text>
     </l10n>
 
