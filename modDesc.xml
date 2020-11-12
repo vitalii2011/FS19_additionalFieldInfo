@@ -162,7 +162,7 @@ Fixed in v1.0.2.1
             <de>Preis pro %s</de>
             <pl>Cena za %s</pl>
             <es>Precio por %s</es>
-	    <ru>С обраб. св. земли</ru>
+	    <ru>Цена за %s</ru>
         </text>
         <text name="additionalFieldInfo_POTENTIAL_HARVEST">
             <fr>Récolte potentielle</fr>
