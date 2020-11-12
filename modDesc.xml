@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="51">
     <author>yumi</author>
     <version>1.0.2.1</version>
@@ -6,6 +6,7 @@
         <en>Additional Field Info</en>
         <fr>Informations De Champ Supplémentaires</fr>
         <de>Zusätzliche Feldinfo</de>
+		<ru>Дополнительная информация о поле</ru>
     </title>
     <description>
         <en><![CDATA[
@@ -103,6 +104,25 @@ Nuevo en v1.0.2.0
 Fixed in v1.0.2.1
   - Reduzca la velocidad de actualización de la pantalla para tierras de cultivo con varios campos
 ]]></es>
+        <ru><![CDATA[
+Отображение дополнительной информации на панели информации о поле при проходе по полю:
+   - Площадь каждого поля на участке
+   - Площадь земельного участка
+   - Цена за гектар (за акр) посевной площади на земле, которой вы не владеете
+   - Возможное количество урожая и урожайность на готовых к уборке полях
+
+==== ИЗМЕНЕНИЯ ====
+Новое в v1.0.1.0
+   - Возможный урожай и урожайность
+Исправлено в v1.0.1.1
+   - Управляйте сельхозугодьями с несколькими полями, показывая их одно за другим в режиме обновления
+Новое в v1.0.1.2
+   - Добавление польского и испанского переводов
+Новое в v1.0.2.0
+   - Площадь выделенного земельного участка отображается на экране обзора карты.
+Исправлено в v1.0.2.1
+   - Замедленное обновление дисплея для сельхозугодий с несколькими полями
+]]></ru>
     </description>
     <iconFilename>modIcon.dds</iconFilename>
     <multiplayer supported="true"/>
@@ -118,6 +138,7 @@ Fixed in v1.0.2.1
             <de>Feld %d Fläche</de>
             <pl>Pole nr %d</pl>
             <es>Area del campo %d</es>
+			<ru>Площадь поля %d</ru>
         </text>
         <text name="additionalFieldInfo_FARMLAND_AREA">
             <fr>Superficie du terrain</fr>
@@ -125,6 +146,7 @@ Fixed in v1.0.2.1
             <de>Landfläche</de>
             <pl>Grunt</pl>
             <es>Area de la parcela</es>
+			<ru>Площадь участка</ru>
         </text>
         <text name="additionalFieldInfo_AREA">
             <fr>Superficie</fr>
@@ -132,6 +154,7 @@ Fixed in v1.0.2.1
             <de>Fläche</de>
             <pl>Grunt</pl>
             <es>Area</es>
+			<ru>Площадь</ru>
         </text>
         <text name="additionalFieldInfo_PRICE_ON_AREA">
             <fr>Prix à l'%s</fr>
@@ -139,6 +162,7 @@ Fixed in v1.0.2.1
             <de>Preis pro %s</de>
             <pl>Cena za %s</pl>
             <es>Precio por %s</es>
+			<ru>Цена за %s</ru>
         </text>
         <text name="additionalFieldInfo_POTENTIAL_HARVEST">
             <fr>Récolte potentielle</fr>
@@ -146,6 +170,7 @@ Fixed in v1.0.2.1
             <de>Potenzielle Erntemenge</de>
             <pl>Potencjalna ilość zbiorów</pl>
             <es>A cosechar aprox.</es>
+			<ru>Возможный урожай</ru>
         </text>
         <text name="additionalFieldInfo_POTENTIAL_YIELD">
             <fr>Rendement potentiel</fr>
@@ -153,6 +178,7 @@ Fixed in v1.0.2.1
             <de>Möglicher Ertrag</de>
             <pl>Potencjalny zysk</pl>
             <es>Posible rendimiento</es>
+			<ru>Возможная урожайность</ru>
         </text>
     </l10n>
 
